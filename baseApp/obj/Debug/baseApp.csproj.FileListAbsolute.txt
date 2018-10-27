@@ -1,0 +1,7 @@
+C:\Users\globa\source\repos\baseApp\baseApp\bin\Debug\baseApp.exe.config
+C:\Users\globa\source\repos\baseApp\baseApp\bin\Debug\baseApp.exe
+C:\Users\globa\source\repos\baseApp\baseApp\bin\Debug\baseApp.pdb
+C:\Users\globa\source\repos\baseApp\baseApp\obj\Debug\baseApp.csprojAssemblyReference.cache
+C:\Users\globa\source\repos\baseApp\baseApp\obj\Debug\baseApp.csproj.CoreCompileInputs.cache
+C:\Users\globa\source\repos\baseApp\baseApp\obj\Debug\baseApp.exe
+C:\Users\globa\source\repos\baseApp\baseApp\obj\Debug\baseApp.pdb
